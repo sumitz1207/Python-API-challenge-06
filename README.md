@@ -11,3 +11,9 @@ Analysis
 VacationPy Heatmaps
 ![Humidity Heatmap](https://github.com/sumitz1207/Python-API-challenge-06/blob/main/VacationPy/heatmap_humidity.PNG)
 ![Hotel Heatmap](https://github.com/sumitz1207/Python-API-challenge-06/blob/main/VacationPy/heatmap_hotel_pins.PNG)
+
+
+Please use these links if my jupyter notebook is not formatting correctly:
+https://nbviewer.jupyter.org/github/sumitz1207/Python-API-challenge-06/blob/main/WeatherPy/WeatherPy.ipynb
+
+https://nbviewer.jupyter.org/github/sumitz1207/Python-API-challenge-06/blob/main/VacationPy/VacationPy.ipynb
